@@ -30,7 +30,7 @@
     "body-parser": "^1.13.3",
     "bower": "^1.5.2",
     "express": "^4.13.3",
-    "file-stream-rotator": "0.0.6",
+    "file-stream-rotator": "^0.2.1",
     "jsonfile": "^2.2.3",
     "jsonwebtoken": "^5.0.5",
     "mongoose": "^4.1.7",
